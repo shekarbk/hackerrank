@@ -8,3 +8,5 @@ Each ticket sale dates exactly one second.
 We express the initial line of n people as an array, tickets = [ticket(0),ticket(1),...,ticket(n-1)] where each tickers, denotes the number of tickets that person i wishes to buy. If Jesse is located at postion p. How many seconds will it take for him to purchase the tickets.
 
 For example if tickets = [1,2,5] and p=1, Jesse finishes purchasing all tickets of 2 in time t = 4
+
+Logic: The logic is build using Collections.rotate() and Indicator Array
