@@ -8,7 +8,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Test cases on buying show tickets
+ * Test cases on buying show tickets.
  */
 public class ShowTicketsTest {
 
